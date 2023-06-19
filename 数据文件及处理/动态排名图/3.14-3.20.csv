@@ -1,0 +1,773 @@
+"Incident ID","Incident Date",State,"City Or County",Address,"# Victims Killed","# Victims Injured","# Subjects-Suspects Killed","# Subjects-Suspects Injured","# Subjects-Suspects Arrested",Operations
+2551487,"March 20, 2023","New York",Brooklyn,"2355 Batchelder St",1,0,0,0,0,N/A
+2549957,"March 20, 2023",Texas,Arlington,"1400 W Lamar Blvd",1,1,0,0,1,N/A
+2550317,"March 20, 2023","New York",Rochester,"Barrington St",0,0,1,0,0,N/A
+2550522,"March 20, 2023",Kansas,"Fort Riley","Trooper Dr",0,0,0,1,0,N/A
+2554741,"March 20, 2023",Texas,Victoria,"3100 block of Greenwood Dr",0,1,0,0,0,N/A
+2550492,"March 20, 2023",Kentucky,Louisville,"4600 block of Hendrik Dr",0,1,0,0,0,N/A
+2550322,"March 20, 2023",Virginia,Manassas,"6330 Hoadly Rd",1,0,0,0,1,N/A
+2559076,"March 20, 2023",Mississippi,"Water Valley",MS-315,1,0,0,0,0,N/A
+2552231,"March 20, 2023",Indiana,Muncie,"16th St and Ebright St",0,1,0,0,2,N/A
+2550439,"March 20, 2023",Tennessee,Memphis,"2400 block of Ball Road",1,0,0,0,1,N/A
+2550691,"March 20, 2023",Massachusetts,Springfield,"100 Belmont Ave",1,0,0,0,2,N/A
+2551427,"March 20, 2023",Alabama,Fairfield,"Ave C",0,1,0,0,0,N/A
+2550444,"March 20, 2023",Tennessee,Memphis,"5088 Urbana Rd",1,0,0,0,1,N/A
+2551663,"March 20, 2023",Washington,"Seattle (Ballard)","800 block of NW 54th St",0,1,1,0,0,N/A
+2551812,"March 20, 2023",Pennsylvania,Hilliards,"462 Kohlmeyer Rd",0,0,1,0,0,N/A
+2550552,"March 20, 2023",Ohio,Cleveland,"3800 block of W 31st St",1,1,0,0,1,N/A
+2550413,"March 20, 2023",Delaware,Wilmington,"50 block of Gordon St",0,1,0,0,0,N/A
+2552592,"March 20, 2023",California,Palmdale,"Fifth St E and Ave Q-7",1,0,0,0,0,N/A
+2550389,"March 20, 2023",Virginia,Chesapeake,"1400 block of George Washington Hwy N",0,1,0,0,0,N/A
+2550382,"March 20, 2023",Georgia,Atlanta,"3277 Buford Hwy NE",0,1,0,0,0,N/A
+2550376,"March 20, 2023",Texas,Houston,"5900 block of Schroeder Rd",0,1,0,0,0,N/A
+2550368,"March 20, 2023",Maryland,"Upper Marlboro","13400 block of Water Fowl Way",0,1,0,0,0,N/A
+2553530,"March 20, 2023",Minnesota,Onamia,"14200 Twilight Rd",1,0,0,0,1,N/A
+2550174,"March 20, 2023",Texas,"San Antonio","13121 NW Military Hwy",2,0,1,0,0,N/A
+2551275,"March 20, 2023",Michigan,Detroit,"St Marys St and Fenkell Ave",1,2,0,0,0,N/A
+2550716,"March 20, 2023","New York",Brooklyn,"1608 Sterling Pl",1,0,0,0,0,N/A
+2551335,"March 20, 2023",Virginia,Waynesboro,"Ohio St and N Magnolia Ave",0,1,0,0,0,N/A
+2550701,"March 20, 2023",Connecticut,Meriden,"W Main St and Lewis Ave",1,1,0,1,1,N/A
+2551329,"March 20, 2023",Tennessee,Blountville,"300 block of Cave Hill Rd",0,1,0,0,0,N/A
+2550202,"March 20, 2023",Michigan,Detroit,"14800 block of Lesure St",0,2,0,0,1,N/A
+2550152,"March 20, 2023",Minnesota,Minneapolis,"2700 block of Portland Ave",0,1,0,0,0,N/A
+2550830,"March 20, 2023",Arizona,Tucson,"800 block of East Alturas St",1,0,0,0,0,N/A
+2550808,"March 20, 2023",California,"Los Angeles","76th St and S Main St",0,3,0,0,0,N/A
+2550218,"March 20, 2023",Tennessee,Nashville,"3414 Percy Priest Dr",0,1,0,0,1,N/A
+2551258,"March 20, 2023","South Carolina",Columbia,"300 block of Creek Dr",1,0,0,0,0,N/A
+2551197,"March 20, 2023",Virginia,"Virginia Beach","5100 Cleveland St",0,0,0,0,1,N/A
+2549981,"March 20, 2023",Texas,Houston,"5712 S Gessner Rd",0,0,1,1,0,N/A
+2552253,"March 20, 2023","North Carolina","Roanoke Rapids","200 block of Madison St",0,1,0,0,0,N/A
+2550291,"March 20, 2023",Michigan,Detroit,"Roxbury St and Whittier Ave",0,1,0,0,0,N/A
+2551223,"March 20, 2023",Indiana,Evansville,"200 block of E Missouri St",0,0,1,0,0,N/A
+2550145,"March 20, 2023",Minnesota,"Howard Lake","300 Dura Dr",1,0,0,0,1,N/A
+2550370,"March 20, 2023",Wisconsin,Middleton,"3012 Parmenter St",1,0,0,0,1,N/A
+2555695,"March 20, 2023",Missouri,Barnhart,I-55,0,0,1,0,0,N/A
+2550749,"March 20, 2023",Wisconsin,Milwaukee,"N 14th St and W Concordia Ave",1,5,0,0,1,N/A
+2551039,"March 20, 2023",Indiana,Indianapolis,"7024 N Keystone Ave",0,1,0,0,1,N/A
+2550638,"March 20, 2023",Pennsylvania,Scranton,"1900 block of Price St",0,2,1,0,0,N/A
+2550159,"March 20, 2023","New Mexico",Carlsbad,"4301 National Parks Hwy",0,0,1,0,0,N/A
+2551101,"March 20, 2023",Pennsylvania,Philadelphia,"6601 Lansdowne Ave",1,0,0,0,0,N/A
+2550555,"March 20, 2023",Texas,"San Antonio","2700 block of E Commerce St",0,1,0,0,0,N/A
+2549896,"March 20, 2023",Georgia,Conyers,"3707 Sugar Creek Ln",3,0,0,0,1,N/A
+2550150,"March 20, 2023",Alabama,Birmingham,"300 block of 1st Ave N",1,0,0,0,0,N/A
+2550366,"March 20, 2023",Georgia,Bogart,"1081 Rocky Branch Rd",0,0,0,0,0,N/A
+2550696,"March 20, 2023",Mississippi,Greenwood,"Ave H and Short St",1,0,0,0,0,N/A
+2551007,"March 20, 2023",Alabama,Birmingham,"500 block of Buffalo St",1,0,0,0,0,N/A
+2551020,"March 20, 2023",Georgia,Carrollton,N/A,0,1,0,0,1,N/A
+2551012,"March 20, 2023",Georgia,Atlanta,"2423 Martin L King JR. Dr",0,1,0,0,0,N/A
+2551009,"March 20, 2023",Texas,Borger,"300 block of Madison St",0,2,0,0,0,N/A
+2550117,"March 20, 2023",Florida,Tampa,"1600 E 8th Ave",0,1,0,0,0,N/A
+2552714,"March 20, 2023",Georgia,Sylvester,N/A,0,0,0,0,2,N/A
+2551863,"March 20, 2023",Texas,Robstown,"500 block of Indiana St",0,1,0,0,0,N/A
+2550103,"March 20, 2023",Florida,Davenport,"4525 County Rd 547",0,0,0,0,0,N/A
+2550092,"March 20, 2023",Florida,"Hollywood (Pembroke Park)","Hallandale Beach Blvd and SW 55th Ave",1,0,0,0,0,N/A
+2553994,"March 20, 2023",Pennsylvania,Philadelphia,"800 block of N 66th St",1,0,0,0,0,N/A
+2550904,"March 20, 2023",Florida,Sebring,"418 Martin Luther King Jr Blvd",0,1,0,0,0,N/A
+2553979,"March 20, 2023",Pennsylvania,Philadelphia,"1100 block of Passmore St",0,1,0,0,0,N/A
+2552372,"March 20, 2023",Arkansas,"Pine Bluff","1707 S Oak St",0,1,0,0,2,N/A
+2550795,"March 20, 2023",California,Fresno,"4700 block of E Hamilton Ave",0,0,1,0,0,N/A
+2549923,"March 20, 2023",Maryland,"District Heights","6200 block of Alpine St",1,0,0,0,0,N/A
+2559783,"March 20, 2023",Washington,Sunnyside,"I-82 and W Sunnyside Rd",0,2,0,0,0,N/A
+2549944,"March 20, 2023",Indiana,Indianapolis,"3400 block of Seine Ct",0,1,0,0,0,N/A
+2549937,"March 20, 2023",Illinois,Chicago,"5300 block of S Carpenter St",0,1,0,0,0,N/A
+2550557,"March 20, 2023",Louisiana,Eunice,"Beulah St and Maple St",1,0,0,0,3,N/A
+2550909,"March 20, 2023",California,Menifee,"7700 block of Watson Rd",1,0,0,0,1,N/A
+2549925,"March 20, 2023",Maryland,Baltimore,"300 block of N Fremont Ave",0,1,0,0,0,N/A
+2556439,"March 20, 2023",Ohio,Columbus,"Refugee Rd and Noe Bixby Rd",0,1,0,0,0,N/A
+2552519,"March 20, 2023",Montana,Billings,"200 block of N 18th St",1,0,0,0,0,N/A
+2550712,"March 20, 2023","New York","Corona (Queens)","111-26 Inwood St",0,1,0,0,0,N/A
+2550709,"March 20, 2023","New York",Bronx,"1296 Washington Ave",0,1,0,0,0,N/A
+2550706,"March 20, 2023","New York",Brooklyn,"549 Nostrand Ave",0,1,0,0,0,N/A
+2552509,"March 20, 2023",Alabama,"Town Creek","300 block of Co Rd 134",0,1,0,0,0,N/A
+2551629,"March 20, 2023",Ohio,Dayton,"West Mumma Ave",0,1,0,0,0,N/A
+2551609,"March 20, 2023",Mississippi,Richton,"1213 MS-15",0,0,0,0,0,N/A
+2552484,"March 20, 2023",Massachusetts,Springfield,"100 block of Mattoon St",1,0,0,0,0,N/A
+2550671,"March 20, 2023",Pennsylvania,Philadelphia,"S 60th St and Market St",0,1,0,0,0,N/A
+2550669,"March 20, 2023",Pennsylvania,Philadelphia,"3000 block of Ella St",0,1,0,0,0,N/A
+2550666,"March 20, 2023",Pennsylvania,Philadelphia,"5321 Wayne Ave",0,1,0,0,1,N/A
+2551594,"March 20, 2023",Louisiana,"New Orleans","6700 block of Cindy Pl",0,1,0,0,0,N/A
+2551591,"March 20, 2023",Louisiana,"New Orleans","4500 block of Francis Dr",0,1,0,0,0,N/A
+2550636,"March 20, 2023",Louisiana,"New Orleans","2500 block of Annette St",0,1,0,0,0,N/A
+2554574,"March 20, 2023",Texas,"Tyler (county)","Pine St",0,1,0,0,1,N/A
+2551037,"March 20, 2023",Wisconsin,Milwaukee,"6530 W Fond Du Lac Ave",1,0,0,0,0,N/A
+2550888,"March 20, 2023",Texas,Amarillo,"S Tyler St and SW 2nd Ave",1,0,0,0,1,N/A
+2550605,"March 20, 2023",Louisiana,"New Orleans","N Rampart St and Toulouse St",0,1,0,0,0,N/A
+2550618,"March 20, 2023",Louisiana,"New Orleans","2400 block of N Villere St",1,0,0,0,0,N/A
+2550596,"March 20, 2023",Nebraska,Omaha,"4123 W St",0,1,0,0,2,N/A
+2550466,"March 20, 2023",Texas,"League City","130 Magnolia Estates Dr",1,0,1,0,0,N/A
+2550609,"March 20, 2023",Louisiana,"New Orleans","6000 block of Chef Menteur Hwy",1,0,0,0,0,N/A
+2550189,"March 20, 2023",Alabama,Birmingham,"300 block of 74th St",1,0,0,0,2,N/A
+2550432,"March 20, 2023",Arkansas,"Hot Springs National Park (Hot Springs)","600 block of Laser St",1,0,0,0,0,N/A
+2550565,"March 20, 2023",Pennsylvania,Philadelphia,"5500 block of Lansdowne Ave",0,1,0,0,0,N/A
+2550245,"March 20, 2023",Pennsylvania,Philadelphia,"1558 Frazier St",0,3,0,0,0,N/A
+2553086,"March 20, 2023",Missouri,Troy,"E Cherry St and Eames St",2,0,0,0,1,N/A
+2550437,"March 20, 2023",Arkansas,Jonesboro,"212 Rogers St",0,1,0,0,1,N/A
+2551495,"March 20, 2023","New York",Brooklyn,"845 Alabama Ave",0,1,0,0,0,N/A
+2550728,"March 19, 2023","New York",Bronx,"4702 White Plains Rd",1,1,0,0,0,N/A
+2550476,"March 19, 2023",Kentucky,Louisville,"6101 Dutchmans Ln",0,1,0,0,1,N/A
+2551480,"March 19, 2023","New York","Greenfield Center (Greenfield)","Howe Rd",1,0,0,0,0,N/A
+2549780,"March 19, 2023","District of Columbia",Washington,"5000 block of Hunt St NE",0,1,0,0,0,N/A
+2549757,"March 19, 2023","New York","Corona (Queens)","61 32 229th St",0,1,0,0,0,N/A
+2549851,"March 19, 2023",Kansas,Wichita,"1000 block of N Main St",0,1,0,0,0,N/A
+2549774,"March 19, 2023","New York",Bronx,"1085 Nelson Ave",0,1,0,0,0,N/A
+2549517,"March 19, 2023","North Carolina",Cary,"600 block of Dorset Dr",0,1,0,0,0,N/A
+2549772,"March 19, 2023",Colorado,Aurora,N/A,0,1,0,0,0,N/A
+2551447,"March 19, 2023",Nebraska,"Grand Island","1000 block of S Greenwich St",0,1,0,0,1,N/A
+2550526,"March 19, 2023",Texas,Lubbock,"46th Ave and Ave N",0,2,0,0,0,N/A
+2549765,"March 19, 2023","New York",Bronx,"613 E 187th St",1,1,0,0,0,N/A
+2549763,"March 19, 2023",Pennsylvania,"Old Forge","100 block of Exeter Cir",0,1,0,0,0,N/A
+2550195,"March 19, 2023","North Carolina",Charlotte,"4430 The Plaza",2,0,0,0,1,N/A
+2549742,"March 19, 2023",Tennessee,Memphis,"1200 block of Longcrest Rd",0,1,0,0,1,N/A
+2549759,"March 19, 2023",Pennsylvania,Pittsburgh,"5400 block of Penn Ave",0,1,0,0,0,N/A
+2549680,"March 19, 2023",Tennessee,Chattanooga,"1600 block of E 26th St",0,1,0,0,0,N/A
+2550403,"March 19, 2023",Georgia,Manchester,"100 block of Tuskegee Ln",0,1,0,0,0,N/A
+2549903,"March 19, 2023",Maine,"Boothbay Harbor","2 Andrea Ln",0,1,0,0,1,N/A
+2550387,"March 19, 2023",Georgia,Columbus,"1720 Fountain Ct",0,1,0,0,0,N/A
+2549776,"March 19, 2023",Colorado,Denver,"620 Santa Fe Dr",1,0,0,0,1,N/A
+2558941,"March 19, 2023","South Carolina",Conway,"100 Chanticleer Dr E",0,0,0,0,1,N/A
+2549734,"March 19, 2023",California,"Long Beach","2900 block of Ocean Blvd",0,1,0,0,0,N/A
+2550698,"March 19, 2023","New Jersey",Newark,"Clinton Ave and Hillside Ave",0,1,0,0,0,N/A
+2549570,"March 19, 2023",Georgia,Augusta,"3132 Peach Orchard Rd",1,0,0,0,1,N/A
+2549853,"March 19, 2023",Minnesota,Minneapolis,"319 N 1st Ave",0,1,0,0,0,N/A
+2550359,"March 19, 2023",Georgia,Macon,"2700 block of Alandale Dr",0,1,0,0,1,N/A
+2550357,"March 19, 2023",Maryland,Baltimore,"3700 block of Marmon Ave",0,1,0,0,0,N/A
+2549878,"March 19, 2023",Arkansas,Texarkana,"Pinehurst St and Grove St",1,1,0,0,3,N/A
+2550346,"March 19, 2023",Georgia,Atlanta,"300 Wilson Mill Rd SW",0,2,0,0,0,N/A
+2550340,"March 19, 2023",Tennessee,Springfield,"1004 Memorial Blvd",0,1,0,0,0,N/A
+2549716,"March 19, 2023",Illinois,Chicago,"7600 block of S Essex Ave",0,1,0,0,0,N/A
+2549636,"March 19, 2023",Virginia,Williamsburg,"700 block of Scotland St",0,3,0,0,1,N/A
+2549702,"March 19, 2023",Tennessee,Memphis,"4100 block of Ward Ave",0,1,0,0,0,N/A
+2550324,"March 19, 2023",Alabama,Selma,"1800 block of AL-14",1,0,0,0,0,N/A
+2549699,"March 19, 2023",Tennessee,Clinton,"556 Pine Ridge Rd",0,1,0,1,1,N/A
+2549692,"March 19, 2023",Michigan,Detroit,"3100 block of Helen St",1,0,0,0,0,N/A
+2551295,"March 19, 2023",California,Lompoc,"400 block of W Ocean Ave",0,1,0,0,0,N/A
+2549886,"March 19, 2023",Alabama,Talladega,"500 Sloan Ave W",2,1,0,0,2,N/A
+2549858,"March 19, 2023",Connecticut,Waterbury,"300 Hill St",1,0,0,0,0,N/A
+2549678,"March 19, 2023",Kentucky,Louisville,"W Kentucky St and Dr W J Hodge St",0,1,0,0,0,N/A
+2552543,"March 19, 2023",California,Anaheim,"500 block of S Brookhurst St",0,1,0,0,1,N/A
+2549598,"March 19, 2023",Delaware,Newark,"2400 block of Old County Rd",1,0,0,0,1,N/A
+2550230,"March 19, 2023",Virginia,"Glen Allen","4000 block of Cox Rd",0,0,1,0,0,N/A
+2549939,"March 19, 2023",Illinois,Dekalb,"847 Russell Rd",1,0,0,0,1,N/A
+2550227,"March 19, 2023",Utah,Tooele,"500 block of Sunset Ave",0,1,0,0,1,N/A
+2550261,"March 19, 2023",Michigan,"Benton Harbor","2700 block of Townline Rd",1,0,0,0,1,N/A
+2551193,"March 19, 2023",Texas,"Fort Worth","1500 block of E Hattie St",1,0,0,0,0,N/A
+2550257,"March 19, 2023",Alabama,"Town Creek","300 block of Co Rd 134",0,1,0,0,0,N/A
+2549536,"March 19, 2023",Maryland,Baltimore,"716 S Broadway",0,0,0,1,0,N/A
+2549643,"March 19, 2023",Maryland,"Glen Burnie","Winding Wood Rd and Green Branch Ln",0,1,0,0,0,N/A
+2550684,"March 19, 2023",Colorado,"Commerce City","5400 block of E 67th Ave",1,0,0,0,0,N/A
+2550004,"March 19, 2023",California,"Oroville (Thermalito)","US-162 and 14th St",0,1,0,0,1,N/A
+2550243,"March 19, 2023",Illinois,Hopedale,N/A,0,1,0,0,0,N/A
+2549874,"March 19, 2023",Louisiana,Shreveport,"1500 block of W 59th St",1,0,0,0,0,N/A
+2549632,"March 19, 2023",Texas,Houston,"10828 Beechnut St",3,0,0,0,0,N/A
+2549577,"March 19, 2023","New Mexico",Albuquerque,"300 Dorado Pl SE",1,0,0,0,0,N/A
+2550778,"March 19, 2023",California,Bakersfield,"5600 block of Ginger Dr",0,1,0,0,0,N/A
+2549582,"March 19, 2023","New Mexico",Albuquerque,"1st St NW and Indian School Rd NW",1,0,0,0,0,N/A
+2550211,"March 19, 2023","South Carolina",Clover,"Pinckney St",1,0,0,0,1,N/A
+2549616,"March 19, 2023",Pennsylvania,Pittsburgh,"Frankstown Ave and N Homewood Ave",0,1,0,0,0,N/A
+2549567,"March 19, 2023",Georgia,Albany,"1100 block of S Cleveland Ave",1,1,0,0,6,N/A
+2550086,"March 19, 2023",California,Oakland,"1000 block of 82nd Ave",0,1,0,0,0,N/A
+2550094,"March 19, 2023",California,Oakland,"32nd St and Adeline St",0,2,0,0,0,N/A
+2550105,"March 19, 2023",California,Oakland,"500 block of 28th St",0,1,0,0,0,N/A
+2549934,"March 19, 2023",Illinois,Chicago,"409 E 71st St",2,0,0,0,0,N/A
+2550023,"March 19, 2023",California,Stockton,"Flora St and Wilson Way",1,0,0,0,2,N/A
+2550121,"March 19, 2023",Florida,Bradenton,"700 block of 17th St Ct E",1,0,0,0,0,N/A
+2551018,"March 19, 2023",California,"Union City","33000 block of Calistoga St",0,1,0,0,0,N/A
+2550142,"March 19, 2023",Alabama,Lineville,"200 block of Gibbons Ave",0,1,0,0,1,N/A
+2549914,"March 19, 2023",Texas,Dallas,"1910 Bennett Ave",0,0,0,1,1,N/A
+2554059,"March 19, 2023",Georgia,Hazlehurst,"500 block of Baxley Hwy",0,1,0,0,1,N/A
+2549720,"March 19, 2023",Michigan,Detroit,"8755 Grand River Ave",0,2,0,0,0,N/A
+2550654,"March 19, 2023",Louisiana,"New Orleans","4700 block of Raymond Joseph Dr",0,1,0,0,0,N/A
+2550066,"March 19, 2023",Florida,"Lehigh Acres","Milwaukee Blvd and Homestead Rd",0,2,0,0,1,N/A
+2549503,"March 19, 2023",Florida,"Miami Beach","Ocean Dr and 11th St",1,1,0,0,1,N/A
+2549946,"March 19, 2023",Indiana,"West Lafayette","2801 Northwestern Ave",0,1,0,0,1,N/A
+2549561,"March 19, 2023",Ohio,"Cincinnati (Cheviot)","Alpine Pl and N Bend Rd",0,1,0,0,0,N/A
+2550391,"March 19, 2023",Georgia,Columbus,"Veterans Pkwy and 23rd St",0,1,0,0,0,N/A
+2550922,"March 19, 2023",Florida,Tallahassee,"2833 S Adams St",0,1,0,0,0,N/A
+2550015,"March 19, 2023",Indiana,Hobart,"1700 block of W Old Ridge Rd",0,0,1,0,0,N/A
+2549600,"March 19, 2023",Nevada,Henderson,"1100 block of Center St",1,1,0,0,0,N/A
+2549552,"March 19, 2023",Indiana,Indianapolis,"1402 E County Line Rd",0,1,0,0,0,N/A
+2549549,"March 19, 2023",Indiana,Indianapolis,"Welland St and N Munsie St",0,2,0,0,0,N/A
+2553998,"March 19, 2023",Pennsylvania,Philadelphia,"3400 block of N Broad St",0,1,0,0,0,N/A
+2553996,"March 19, 2023",Pennsylvania,Philadelphia,"200 block of W Clapier St",0,1,0,0,0,N/A
+2549547,"March 19, 2023",Florida,"Fort Myers","4160 Ambrosia Dr",1,0,0,0,0,N/A
+2550276,"March 19, 2023","South Carolina",Cayce,"215 Spencer Pl",0,1,0,0,1,N/A
+2549528,"March 19, 2023",California,Oakland,"1400 block of 84th Ave",1,0,0,0,0,N/A
+2551730,"March 19, 2023","North Carolina",Laurinburg,"Marcellus St",0,1,0,0,1,N/A
+2549524,"March 19, 2023",Illinois,Chicago,"4500 block of S Cicero Ave",0,1,0,0,0,N/A
+2549522,"March 19, 2023",Illinois,Chicago,"1500 block of W North Ave",0,1,0,0,0,N/A
+2551717,"March 19, 2023",Florida,Navarre,"7730 Navarre Pkwy",1,0,0,0,1,N/A
+2549511,"March 19, 2023","District of Columbia",Washington,"700 block of 2nd St NE",0,1,0,0,0,N/A
+2549971,"March 19, 2023",Indiana,"South Bend","200 block of Rue Flambeau St",0,2,0,0,1,N/A
+2549488,"March 19, 2023",Illinois,Chicago,"11900 block of S Loomis St",0,1,0,0,0,N/A
+2549484,"March 19, 2023",Illinois,Chicago,"200 block of N Aberdeen St",0,1,0,0,0,N/A
+2549530,"March 19, 2023",Indiana,Indianapolis,"862 Chapelwood Blvd",1,0,0,0,0,N/A
+2549544,"March 19, 2023",Indiana,Indianapolis,"600 block of Gilbert Ave",0,1,0,0,1,N/A
+2550766,"March 19, 2023","South Dakota","Rapid City","1375 N Lacrosse St",0,1,0,0,1,N/A
+2550880,"March 19, 2023",California,"City Of Industry","Azusa Ave and Colima Rd",0,1,0,0,0,N/A
+2549911,"March 19, 2023",Texas,"Fort Worth","4750 Wilbarger St",0,1,0,0,0,N/A
+2551670,"March 19, 2023",Idaho,Moscow,"Styner Ave",0,1,0,0,0,N/A
+2551631,"March 19, 2023","New Jersey",Newark,"801 N 6th St",0,1,0,0,0,N/A
+2549901,"March 19, 2023",California,"San Francisco","Mission St and 13th St",0,1,0,0,0,N/A
+2549610,"March 19, 2023",Utah,Springville,"1000 W 1200 N",0,1,1,0,0,N/A
+2550688,"March 19, 2023",Ohio,Dayton,"2800 block of Sherer Ave",0,1,0,0,0,N/A
+2550681,"March 19, 2023",Pennsylvania,Coatesville,"1896 Crest Dr",0,1,0,0,0,N/A
+2550677,"March 19, 2023",Pennsylvania,Philadelphia,"4100 block of Lancaster Ave",0,1,0,0,0,N/A
+2550675,"March 19, 2023",Pennsylvania,Philadelphia,"300 block of N 63rd St",0,1,0,0,0,N/A
+2550673,"March 19, 2023",Missouri,"Saint Louis","5400 block of Queens Ave",0,1,0,0,0,N/A
+2550664,"March 19, 2023",Oklahoma,Okmulgee,"400 block of S Central Ave",1,0,0,0,0,N/A
+2549872,"March 19, 2023",Louisiana,Shreveport,"104 Market St",0,1,0,0,0,N/A
+2549869,"March 19, 2023",Louisiana,Shreveport,"Roberts Ave and Luther St",0,1,0,0,0,N/A
+2551579,"March 19, 2023",Louisiana,"New Orleans","I-10 Service Rd and Camberley Dr",1,0,0,0,0,N/A
+2549862,"March 19, 2023",Texas,Houston,"6001 Bissonnet St",0,1,0,0,0,N/A
+2550588,"March 19, 2023",Louisiana,"New Orleans","4150 General De Gaulle Dr",1,0,0,0,1,N/A
+2549860,"March 19, 2023",Louisiana,"New Orleans","Florida Blvd and New Orleans St",1,0,0,0,0,N/A
+2550642,"March 19, 2023",Indiana,Jeffersonville,"730 Veronica PL",1,1,0,1,0,N/A
+2549855,"March 19, 2023",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2549694,"March 19, 2023",Ohio,Columbus,"3000 block of Morsetown Ct S",0,1,0,0,1,N/A
+2550578,"March 19, 2023",Louisiana,"New Orleans","2300 block of N Robertson St",1,0,0,0,0,N/A
+2549849,"March 19, 2023",Oklahoma,"Oklahoma City","N Prospect Ave and NE 23rd St",0,1,0,0,0,N/A
+2550490,"March 19, 2023",Louisiana,Alexandria,"Lee St and Bank Dr",1,0,0,0,2,N/A
+2560605,"March 19, 2023",Virginia,"Virginia Beach","4700 block of Marlwood Way",1,0,0,0,0,N/A
+2549479,"March 19, 2023",Pennsylvania,Philadelphia,"1000 Diamond St",0,3,0,1,0,N/A
+2551511,"March 19, 2023",Missouri,Columbia,"700 block of Demaret Dr",0,2,0,0,0,N/A
+2551504,"March 19, 2023","New York",Brooklyn,"2815 Avenue U",1,0,0,0,0,N/A
+2549808,"March 18, 2023",Colorado,Aurora,"Billings St and E Colfax Ave",0,1,0,0,0,N/A
+2549239,"March 18, 2023",Missouri,"Saint Louis","4700 block of S Spring Ave",0,1,0,0,0,N/A
+2560983,"March 18, 2023",Texas,Houston,"6001 Bissonnet St",1,0,0,0,1,N/A
+2552288,"March 18, 2023","South Carolina",Sumter,"Manning Rd and Vernon Dr",0,1,0,0,0,N/A
+2549596,"March 18, 2023",Georgia,Decatur,"4300 block of Glenwood Rd",1,0,0,0,1,N/A
+2549195,"March 18, 2023","New York","Corona (Queens)","92 15 88th Ave",0,1,0,0,0,N/A
+2549193,"March 18, 2023","New York",Albany,"Broadway and Lawn Ave",0,1,0,0,0,N/A
+2549712,"March 18, 2023",Virginia,Portsmouth,"1100 block of Frederick Blvd",1,0,0,0,2,N/A
+2549188,"March 18, 2023","New York","New York (Manhattan)","306 W 128th St",0,1,0,0,0,N/A
+2549133,"March 18, 2023",Louisiana,Lacombe,"61000 block of Brittany Dr",1,0,0,0,1,N/A
+2549184,"March 18, 2023","New York","Corona (Queens)","109 27 Jamaica Ave",1,0,0,0,0,N/A
+2548955,"March 18, 2023",Illinois,Elgin,"1000 block of Fairwood Dr",1,0,0,0,0,N/A
+2549768,"March 18, 2023",Wisconsin,Hortonville,"200 block of Spruce St",1,1,0,0,0,N/A
+2559156,"March 18, 2023",Tennessee,Clarksville,"Summit Heights",0,1,0,0,4,N/A
+2549217,"March 18, 2023",Ohio,"Cincinnati (Sharonville)","2300 block of Sharon Rd",0,1,0,0,1,N/A
+2549180,"March 18, 2023",Colorado,Aurora,"11000 block of E 4th Way",0,1,0,0,0,N/A
+2552162,"March 18, 2023",Indiana,Lafayette,"300 block of Valley St",0,1,0,0,0,N/A
+2550428,"March 18, 2023",Virginia,Hampton,"900 block of Aberdeen Rd",0,1,0,0,0,N/A
+2549752,"March 18, 2023",Illinois,Springfield,"1500 block of E Reynolds St",0,1,0,0,1,N/A
+2548920,"March 18, 2023",Pennsylvania,Philadelphia,"700 block of Lindbergh Blvd",1,0,0,0,0,N/A
+2549159,"March 18, 2023",Illinois,Chicago,"5200 block of W Altgeld St",0,1,0,0,0,N/A
+2549089,"March 18, 2023",Maryland,Frederick,"173 W All Saints St",0,1,0,0,1,N/A
+2549744,"March 18, 2023",Illinois,Peoria,"907 W Johnson St",0,1,0,0,0,N/A
+2549076,"March 18, 2023",Virginia,Charlottesville,"3 Elliewood Ave",1,0,0,0,1,N/A
+2549131,"March 18, 2023",Kentucky,Louisville,"2500 block of W Main St",0,1,0,0,0,N/A
+2549299,"March 18, 2023",Virginia,Alexandria,"400 block of N Armistead St",0,1,0,0,1,N/A
+2550329,"March 18, 2023",Alabama,Montgomery,"1800 block of Cotton Ct",0,1,0,0,0,N/A
+2549042,"March 18, 2023",Tennessee,Memphis,"200 block of Chelsea Ave",1,0,0,0,0,N/A
+2549118,"March 18, 2023",Maryland,Baltimore,"100 block of N Highland Ave",0,1,0,0,0,N/A
+2549113,"March 18, 2023",Maryland,Baltimore,"6500 block of Frankford Ave",0,1,0,0,0,N/A
+2548951,"March 18, 2023",Pennsylvania,Philadelphia,"1100 block of N 40th St",0,3,0,0,0,N/A
+2548925,"March 18, 2023",Texas,Garland,"4501 N Garland Ave",0,0,2,0,1,N/A
+2549091,"March 18, 2023",Maryland,"Baltimore (Hamilton)","Harford Rd and White Ave",0,1,0,0,0,N/A
+2549086,"March 18, 2023",Kentucky,"Louisville (Shively)","3700 block of 7th Street Rd",0,1,0,0,0,N/A
+2549554,"March 18, 2023","North Carolina",Kinston,"500 Marcella Dr",1,0,0,0,2,N/A
+2549682,"March 18, 2023",Michigan,Lansing,"W Jolly Rd and S Waverly Rd",0,1,0,0,0,N/A
+2549748,"March 18, 2023",Michigan,Richmond,"36000 block of Monroe St",0,0,1,0,0,N/A
+2549462,"March 18, 2023",California,Bakersfield,"Lexington Ave and Normandy Dr",2,0,0,0,0,N/A
+2549071,"March 18, 2023",Kentucky,Louisville,"Cane Run Rd and Bells Lane",0,2,0,0,0,N/A
+2549040,"March 18, 2023",Tennessee,Memphis,"4400 block of Green Creek",1,0,0,0,0,N/A
+2548773,"March 18, 2023",Ohio,Columbus,"1570 S. High St",2,4,0,0,0,N/A
+2549057,"March 18, 2023","District of Columbia",Washington,"300 block of 36th St NE",0,0,1,0,0,N/A
+2549102,"March 18, 2023",Virginia,Richmond,"3459 Walmsley Blvd",1,0,0,0,0,N/A
+2550285,"March 18, 2023",Alabama,Mobile,"1000 block of St Stephens Rd",0,1,0,0,0,N/A
+2549139,"March 18, 2023",Alabama,"Spanish Fort","11900 McFarland Rd",2,0,0,0,1,N/A
+2549932,"March 18, 2023",Oregon,Portland,"350 W Burnside St",0,1,0,0,1,N/A
+2549651,"March 18, 2023",Pennsylvania,Aliquippa,"1100 block of Irwin St",0,1,0,0,0,N/A
+2549171,"March 18, 2023",Indiana,Indianapolis,"1900 block of E Washington St",0,2,0,0,1,N/A
+2551035,"March 18, 2023",California,"Cathedral City","33300 block of Pueblo Trl",0,1,0,0,0,N/A
+2548957,"March 18, 2023",Texas,Austin,"300 block of Deen St",1,0,0,0,2,N/A
+2549032,"March 18, 2023",Georgia,Albany,"1500 block of Whiting Ave",1,0,0,0,2,N/A
+2549186,"March 18, 2023","New Mexico",Albuquerque,"Alameda Blvd NW and Corrales Rd",1,0,0,0,0,N/A
+2560382,"March 18, 2023",Pennsylvania,Barnesville,"50 block of Maple Ave",1,0,1,0,0,N/A
+2549358,"March 18, 2023",Mississippi,Jackson,"4000 block of Rainey Rd",1,0,0,0,2,N/A
+2549310,"March 18, 2023",Oklahoma,"Oklahoma City","203 NE 36th St",1,0,0,0,1,N/A
+2549613,"March 18, 2023",Wisconsin,Milwaukee,"2576 N Teutonia Ave",0,2,0,0,0,N/A
+2549608,"March 18, 2023",Iowa,"Des Moines","Martin Luther King Jr Pkwy and Forest Ave",0,1,0,0,0,N/A
+2550457,"March 18, 2023",Kansas,Lawrence,"1300 block of Maple Ln",1,0,0,0,1,N/A
+2550072,"March 18, 2023",Wisconsin,"Wolf River","Metzig Rd and South Rd",2,0,0,0,1,N/A
+2549590,"March 18, 2023",Georgia,Tucker,"1820 Mountain Industrial Blvd",1,0,0,0,0,N/A
+2550883,"March 18, 2023",Florida,Kissimmee,"Central Ave and Cypress St",1,0,0,0,1,N/A
+2549619,"March 18, 2023",Wisconsin,Milwaukee,"N 10th St and W State St",0,1,0,0,1,N/A
+2548900,"March 18, 2023",Texas,Houston,"5100 block of Edloe St",0,1,0,0,0,N/A
+2549579,"March 18, 2023",Georgia,Columbus,"2000 block of Cusseta Rd",0,2,0,0,0,N/A
+2550107,"March 18, 2023",Illinois,Westville,"312 S State St",0,2,0,0,0,N/A
+2551800,"March 18, 2023",Georgia,Cumming,"Breeze Bay Rd",0,1,0,0,1,N/A
+2554011,"March 18, 2023",Pennsylvania,Philadelphia,"2700 block of Axe Factory Rd",0,1,0,0,0,N/A
+2554009,"March 18, 2023",Pennsylvania,Philadelphia,"2400 block of Harlan St",0,1,0,0,0,N/A
+2549640,"March 18, 2023",Pennsylvania,Ambler,"1169 Limekiln Pike",0,0,0,1,0,N/A
+2549006,"March 18, 2023",Florida,"Daytona Beach","315 Pearl St",0,2,0,0,0,N/A
+2549376,"March 18, 2023",Colorado,Englewood,"S Broadway and W Oxford Ave",0,0,1,0,0,N/A
+2551748,"March 18, 2023","South Carolina",Orangeburg,"Baxter St",0,1,0,0,0,N/A
+2549126,"March 18, 2023",Tennessee,"Memphis (Bartlett)","Ellis Rd and Golden Valley Ln",0,0,1,0,0,N/A
+2549163,"March 18, 2023",Arizona,Phoenix,"16th St and Glendale Ave",1,0,0,0,0,N/A
+2549519,"March 18, 2023",Illinois,Chicago,"6400 Block of S. Lawndale Ave",0,1,0,0,0,N/A
+2549509,"March 18, 2023",Illinois,Chicago,"7100 block of S Vincennes Ave",0,1,0,0,0,N/A
+2549513,"March 18, 2023","North Carolina",Matthews,"9201 E Independence Blvd",0,1,0,0,1,N/A
+2551702,"March 18, 2023",Florida,"Pompano Beach","717 NW Fifth Ave",1,0,0,0,0,N/A
+2549500,"March 18, 2023",Florida,Gainesville,"2330 SW Williston Rd",1,0,0,0,0,N/A
+2549496,"March 18, 2023",Florida,Jacksonville,"1600 College Cir E",0,1,0,0,2,N/A
+2549962,"March 18, 2023",Maryland,Salisbury,"700 block of Dennis St",0,1,0,0,0,N/A
+2549493,"March 18, 2023",Florida,Jacksonville,"6900 block of Ortega Woods Dr",0,1,0,0,1,N/A
+2549486,"March 18, 2023",Illinois,Chicago,"500 block of E 67th St",0,1,0,0,0,N/A
+2619843,"March 18, 2023",Texas,Houston,"8400 block of Gulf Fwy",0,1,0,0,0,N/A
+2549730,"March 18, 2023",California,Fresno,"1211 Fresno St",0,0,1,0,0,N/A
+2548847,"March 18, 2023","New York",Brooklyn,"Dumont Ave and Hinsdale St",0,1,0,0,0,N/A
+2549355,"March 18, 2023",Colorado,"Colorado Springs","2165 Academy Pl",0,2,0,0,1,N/A
+2554699,"March 18, 2023",Illinois,Harvey,"Sibley Blvd and E 147th St",1,0,0,0,0,N/A
+2549472,"March 18, 2023",California,Bellflower,"Los Angeles St and Clark Ave",0,1,0,0,0,N/A
+2549166,"March 18, 2023",Indiana,Indianapolis,"2444 Beckwith Dr",1,0,0,0,0,N/A
+2549470,"March 18, 2023",California,Riverside,"4300 block of Briggs St",0,1,0,0,0,N/A
+2549468,"March 18, 2023",California,"Los Angeles","E 113th St and Avalon Blvd",0,1,0,0,0,N/A
+2548835,"March 18, 2023",Illinois,Chicago,"2400 block of E 105th St",0,1,0,0,0,N/A
+2549726,"March 18, 2023",California,Bakersfield,"900 block of White Ln",0,0,1,0,0,N/A
+2549457,"March 18, 2023",California,Bakersfield,"34th St and Q St",1,0,0,0,3,N/A
+2549452,"March 18, 2023",Illinois,Chicago,"2425 E 72nd St",0,4,0,0,0,N/A
+2549381,"March 18, 2023",Ohio,Columbus,"3000 block of Oaklawn St",0,1,0,0,0,N/A
+2549532,"March 18, 2023",California,"Lemon Grove","2800 block of Lemon Grove Ave",1,0,0,0,0,N/A
+2549906,"March 18, 2023",Montana,Billings,"1000 block of Bench Blvd",0,1,0,0,1,N/A
+2549418,"March 18, 2023",Michigan,Detroit,"15300 block of Hartwell Ave",2,0,0,0,0,N/A
+2550739,"March 18, 2023",Texas,Victoria,"3605 E Forrest St",0,1,0,0,0,N/A
+2549920,"March 18, 2023",Montana,"Saint Regis (St Regis)","5 Old Highway 10 E",0,1,1,0,0,N/A
+2549891,"March 18, 2023",Alabama,Opelika,"100 block of Brannon Ave",0,1,0,0,1,N/A
+2561153,"March 18, 2023",Arizona,Winslow,"1609 W Fourth St",0,1,0,0,1,N/A
+2551645,"March 18, 2023",Mississippi,Mccomb,"900 block of Pennsylvania Ave",0,2,0,0,0,N/A
+2549889,"March 18, 2023",Alabama,Jacksonville,"5000 block of Alexandria-Jacksonville Hwy",0,0,0,1,0,N/A
+2549388,"March 18, 2023",Ohio,Dayton,"645 Infirmary Rd",0,0,0,1,0,N/A
+2550693,"March 18, 2023",Mississippi,Shaw,"101 Issaquena St",0,1,0,0,1,N/A
+2549867,"March 18, 2023",Louisiana,"New Orleans","2200 block of Deslonde St",0,1,0,0,0,N/A
+2549338,"March 18, 2023","New Jersey","Atlantic City","1900 block of Boardwalk",1,0,0,0,1,N/A
+2549324,"March 18, 2023",Texas,Dallas,"Gannon Ln and S Westmoreland Rd",0,4,0,0,0,N/A
+2548943,"March 18, 2023",Texas,Beaumont,"6632 Phelan Blvd",1,1,0,0,2,N/A
+2550611,"March 18, 2023",Florida,"Cape Coral","311 Northeast 7th St",1,0,1,0,0,N/A
+2548902,"March 18, 2023",Texas,Houston,"4200 block of W 34th St",0,1,0,0,0,N/A
+2549314,"March 18, 2023",Texas,Houston,"11600 block of Homestead Rd",0,1,0,0,0,N/A
+2549144,"March 18, 2023",Pennsylvania,Erie,"800 block of 21st St",1,0,0,0,1,N/A
+2552404,"March 18, 2023",California,"Santa Clarita","23700 block of Silverado St",2,0,0,0,0,N/A
+2549684,"March 18, 2023",Michigan,Saginaw,"Sheridan Ave and Hess Ave",0,2,0,0,2,N/A
+2549421,"March 18, 2023",California,Newhall,"23700 Valle del Oro",2,0,0,0,2,N/A
+2549308,"March 18, 2023",Iowa,"Council Bluffs","3700 block of 3rd Ave",0,1,0,0,0,N/A
+2565364,"March 18, 2023",Mississippi,Oxford,"100 block of Creekmore Blvd",0,1,0,0,1,N/A
+2549297,"March 18, 2023",Louisiana,Shreveport,"1915 Patzman St",0,1,0,0,0,N/A
+2548876,"March 18, 2023",Texas,"San Antonio","2100 block of S Callaghan Rd",1,1,0,0,0,N/A
+2552330,"March 18, 2023",California,Montclair,"Ramona Ave and Canoga St",1,0,0,0,0,N/A
+2549095,"March 18, 2023","District of Columbia",Washington,"4000 block of Wheeler St SE",0,2,0,0,0,N/A
+2549247,"March 18, 2023",Missouri,"Saint Louis (Spanish Lake)","1100 block of Soria St",0,1,0,0,1,N/A
+2549244,"March 18, 2023","District of Columbia",Washington,"1200 block of Valley Ave SE",0,1,0,0,0,N/A
+2548547,"March 17, 2023",Missouri,"Saint Louis","2600 block of Caroline St",0,2,0,0,0,N/A
+2548456,"March 17, 2023",Kentucky,Lexington,"300 N Martin Luther King Blvd",1,1,0,0,1,N/A
+2549222,"March 17, 2023",Missouri,"Saint Louis","1400 block of N 10th St",0,1,0,0,0,N/A
+2549785,"March 17, 2023","New York",Poughkeepsie,"27 Garden St",0,1,0,0,0,N/A
+2549211,"March 17, 2023",Missouri,"Saint Louis","900 block of River Trail Ct",0,1,0,0,0,N/A
+2549208,"March 17, 2023",Ohio,Cincinnati,"6840 Hamilton Ave",0,1,0,0,0,N/A
+2549782,"March 17, 2023",Colorado,"Colorado Springs","4300 block of Conquista Dr",0,1,0,0,0,N/A
+2550446,"March 17, 2023",Kentucky,Louisville,"2800 block of Greenwood Ave",0,1,0,0,1,N/A
+2548468,"March 17, 2023",Ohio,Cincinnati,"6005 Vine St",0,1,0,0,1,N/A
+2548999,"March 17, 2023",Florida,"Miami Beach","Seventh St and Ocean Dr",1,0,0,1,0,N/A
+2549199,"March 17, 2023",Missouri,Seymour,"Cardwell Chapel Rd",0,1,0,0,1,N/A
+2548879,"March 17, 2023",California,"Rio Oso","Kempton Rd and Brewer Rd",2,0,0,0,1,N/A
+2548680,"March 17, 2023",Mississippi,Tupelo,"3994 N Gloster St",0,1,0,0,1,N/A
+2551201,"March 17, 2023",Texas,Dallas,"3000 block of Al Lipscomb Way",1,0,0,0,3,N/A
+2548384,"March 17, 2023",Michigan,"Sterling Heights","35500 Van Dyke Ave",0,2,1,0,0,N/A
+2548399,"March 17, 2023","New York",Brooklyn,"15 Mother Gaston Blvd",0,1,0,0,0,N/A
+2549161,"March 17, 2023",Pennsylvania,Philadelphia,"1801 N Broad St",0,0,0,0,0,N/A
+2548805,"March 17, 2023",Illinois,Chicago,"200 block of N St Louis Ave",1,0,0,0,0,N/A
+2549736,"March 17, 2023",Michigan,Dearborn,N/A,1,0,0,0,0,N/A
+2549732,"March 17, 2023",Illinois,Peoria,"800 block of W Thrush Ave",0,1,0,0,0,N/A
+2548342,"March 17, 2023",Tennessee,Antioch,"299 Tusculum Rd",0,1,0,0,0,N/A
+2549047,"March 17, 2023",Tennessee,Antioch,"4700 block of McBride Rd",1,1,0,0,1,N/A
+2548326,"March 17, 2023",Minnesota,Duluth,"3301 Technology Dr",0,0,0,0,0,N/A
+2548822,"March 17, 2023",Illinois,Antioch,"600 block of Hillside Ave",0,0,1,0,0,N/A
+2549123,"March 17, 2023",Pennsylvania,Williamsport,"Elmira St",0,1,0,0,1,N/A
+2550336,"March 17, 2023",Tennessee,Summertown,"Caldwell Rd",1,0,0,0,0,N/A
+2548318,"March 17, 2023","New York","Corona (Queens)","90 70 179th St",0,1,0,0,0,N/A
+2548268,"March 17, 2023",Tennessee,Memphis,"I-240 and Mt Moriah Rd",0,2,0,0,0,N/A
+2552892,"March 17, 2023","North Carolina",Olin,"400 block of Tabor Rd",0,1,0,0,1,N/A
+2550320,"March 17, 2023",Alabama,Selma,"2000 block of 2nd Ave",1,0,0,0,0,N/A
+2548280,"March 17, 2023",Wisconsin,Milwaukee,"N 38th St and W Lloyd St",0,1,0,0,0,N/A
+2548839,"March 17, 2023",Illinois,Decatur,"500 block of E Johnson Ave",2,0,0,0,1,N/A
+2548272,"March 17, 2023",Wisconsin,Milwaukee,"N Michele St and W Allyn St",1,0,0,0,0,N/A
+2548291,"March 17, 2023",Virginia,Clover,"Black Walnut Rd",0,1,0,0,1,N/A
+2548254,"March 17, 2023",Wisconsin,Oshkosh,"500 block of N Main St",0,0,0,1,1,N/A
+2549045,"March 17, 2023",Massachusetts,Lawrence,"216 Walnut St",1,0,0,0,1,N/A
+2554204,"March 17, 2023",Michigan,Detroit,"2000 block of Prince Hall Dr",1,0,0,0,0,N/A
+2548641,"March 17, 2023",Maryland,Laurel,"8200 block of Londonberry Ct",0,1,0,0,0,N/A
+2548658,"March 17, 2023","District of Columbia",Washington,"1100 Michigan Ave NE",0,1,0,0,0,N/A
+2548485,"March 17, 2023",Minnesota,"Saint Paul","846 Johnson Pkwy",0,0,0,1,1,N/A
+2584916,"March 17, 2023",California,Felton,CA-9,1,0,0,0,2,N/A
+2550268,"March 17, 2023","South Carolina","Goose Creek","5000 Harbour Lake Dr",1,0,0,0,0,N/A
+2555706,"March 17, 2023",Missouri,"Kansas City","The Paseo and E 54th St",1,0,0,0,1,N/A
+2548723,"March 17, 2023","North Carolina",Wadesboro,"Airport Rd",1,0,0,0,0,N/A
+2548445,"March 17, 2023",Ohio,"New Concord","260 Stadium Dr",0,1,0,0,1,N/A
+2578018,"March 17, 2023",Texas,Elmendorf,"Donop Rd",0,1,0,0,0,N/A
+2547898,"March 17, 2023",Florida,"Orlando (Pine Hills)","4100 block of White Heron Dr",1,0,0,0,0,N/A
+2548198,"March 17, 2023",Maryland,Towson,"404 Emerson Dr",0,0,0,0,0,N/A
+2548842,"March 17, 2023",California,Selma,"2200 block of Locust St",1,1,0,0,0,N/A
+2548671,"March 17, 2023",California,Vallejo,"2000 block of Solano Ave",1,0,0,0,1,N/A
+2548191,"March 17, 2023",Maryland,Baltimore,"Martin Luther King Blvd and W Fayette St",0,1,0,0,0,N/A
+2550299,"March 17, 2023",Michigan,Pinckney,"2150 M-36",0,0,0,0,0,N/A
+2549030,"March 17, 2023",Georgia,Columbus,"2500 block of Wedgefield Ct",0,1,0,0,0,N/A
+2549028,"March 17, 2023",Georgia,Augusta,"700 block of E Chapman St",0,1,0,0,0,N/A
+2548178,"March 17, 2023",Florida,Miami,"8000 block of NW Miami Ct",0,2,0,0,0,N/A
+2548119,"March 17, 2023",Texas,Houston,"2301 Main St",0,1,0,0,0,N/A
+2548025,"March 17, 2023",Indiana,Indianapolis,"4200 block of N Arlington Ave",0,1,0,0,0,N/A
+2548125,"March 17, 2023",Texas,Houston,"10600 block of Monroe Rd",0,1,0,0,0,N/A
+2548995,"March 17, 2023",Texas,Houston,"900 block of Wooding St",0,1,0,0,0,N/A
+2548992,"March 17, 2023",Florida,Jacksonville,"3900 block of Peter Rabbit Dr",0,1,0,0,1,N/A
+2548986,"March 17, 2023",Florida,"Boca Raton","Florida's Turnpike and Glade Rd",0,1,0,0,0,N/A
+2549011,"March 17, 2023",Florida,Orlando,"3711 Dixie Belle Dr",1,0,0,0,1,N/A
+2548968,"March 17, 2023",Pennsylvania,Philadelphia,"6000 block of Reinhard St",0,1,0,0,0,N/A
+2548430,"March 17, 2023",Louisiana,"New Orleans","7000 block of Crowder Blvd",1,0,0,0,1,N/A
+2548947,"March 17, 2023",Pennsylvania,Philadelphia,"S 17th St and Snyder Ave",0,1,0,0,0,N/A
+2548937,"March 17, 2023",Pennsylvania,Philadelphia,"Torresdale Ave and Bridge St",1,0,0,0,0,N/A
+2549565,"March 17, 2023",Arizona,Phoenix,"5250 W Indian School Rd",0,1,0,0,0,N/A
+2554033,"March 17, 2023",Pennsylvania,Philadelphia,"400 block of W Cambria St",0,1,0,0,0,N/A
+2554029,"March 17, 2023",Pennsylvania,Philadelphia,"1100 block of N 40th St",0,3,0,0,0,N/A
+2554025,"March 17, 2023",Pennsylvania,Philadelphia,"2000 block of Madison St",1,0,0,0,0,N/A
+2549197,"March 17, 2023",Utah,"Salt Lake City (Taylorsville)","4400 S 2200 W",0,0,0,1,1,N/A
+2548188,"March 17, 2023",Florida,Miami,"14444 W Dixie Hwy",0,1,0,0,0,N/A
+2549541,"March 17, 2023",California,Adelanto,"14400 block of Clemson Ct",1,0,0,0,1,N/A
+2549586,"March 17, 2023",Georgia,Lagrange,"Bell St",0,1,0,0,1,N/A
+2547993,"March 17, 2023",Pennsylvania,Philadelphia,"N 24th St and Jefferson St",0,2,0,0,0,N/A
+2549098,"March 17, 2023",Arizona,Tempe,"48th St and Broadway Rd",1,2,0,0,3,N/A
+2549055,"March 17, 2023",Iowa,Marion,"1625 Blairs Ferry Rd",1,0,0,0,1,N/A
+2549985,"March 17, 2023",Iowa,Marshalltown,"618 W Boone St",1,0,0,0,1,N/A
+2548867,"March 17, 2023",California,"Los Angeles","E 132nd St and Alameda St",1,0,0,0,0,N/A
+2548055,"March 17, 2023",California,Bakersfield,"7000 Auburn St",1,0,0,0,1,N/A
+2548244,"March 17, 2023",California,Stockton,"1100 block of Ishi Goto St",0,1,0,0,0,N/A
+2548813,"March 17, 2023",Illinois,Chicago,"1000 block of N Central Ave",1,0,0,0,0,N/A
+2548872,"March 17, 2023",California,Oakland,"2500 block of Telegraph Ave",0,2,0,0,0,N/A
+2548808,"March 17, 2023",Oregon,Thurston,"S 51st Pl",0,0,0,2,2,N/A
+2548932,"March 17, 2023",California,Orange,"20 City Blvd",0,1,0,0,0,N/A
+2548787,"March 17, 2023",Arkansas,"Little Rock","1400 block of Leander Dr",1,0,0,0,0,N/A
+2549916,"March 17, 2023",Montana,"Great Falls","1412 3rd W Hill Dr",1,0,1,0,0,N/A
+2548737,"March 17, 2023",Alabama,Mobile,"Muscadine Ave",0,1,0,0,0,N/A
+2551636,"March 17, 2023","New Jersey",Camden,"1300 block of Fairview St",1,0,0,0,0,N/A
+2548731,"March 17, 2023",Alabama,Huntsville,"Mastin Lake Rd and AL-53",0,0,1,0,0,N/A
+2548729,"March 17, 2023","North Carolina","Winston Salem (Winston-salem)","1400 block of Peace Ct",0,1,0,0,0,N/A
+2548704,"March 17, 2023",Ohio,Warren,"250 Tod Ave NW",0,1,0,0,0,N/A
+2549322,"March 17, 2023","New Jersey",Bayonne,"21 Goldsborough Dr",0,1,0,0,0,N/A
+2548575,"March 17, 2023",Ohio,Columbus,"1000 block of Studer Ave",0,1,0,0,0,N/A
+2548675,"March 17, 2023",Missouri,"Florissant (Black Jack)","12400 Old Halls Ferry Rd",0,1,0,0,0,N/A
+2548654,"March 17, 2023",Colorado,Aurora,"1500 block of S Havana St",0,1,0,0,0,N/A
+2549320,"March 17, 2023",Texas,Houston,"10100 block of Valencia Dr",0,1,0,0,0,N/A
+2548990,"March 17, 2023",Texas,Houston,"5300 block of Coke St",0,1,0,0,0,N/A
+2548650,"March 17, 2023",Texas,Humble,"Wellington Chase Ln and Kenya Manor Dr",0,1,0,0,1,N/A
+2548557,"March 17, 2023",Mississippi,Hattiesburg,"5901 US-49",0,1,0,0,1,N/A
+2548637,"March 17, 2023",Maryland,"Temple Hills","3100 block of Suitland Pkwy",0,1,0,0,0,N/A
+2548633,"March 17, 2023","District of Columbia",Washington,"1100 block of 18th St NW",0,1,0,0,0,N/A
+2548913,"March 17, 2023",Texas,Dallas,"7455 S Westmoreland Rd",1,0,1,0,2,N/A
+2548631,"March 17, 2023",Maryland,Gaithersburg,"7604 Laytonia Dr",0,1,0,0,0,N/A
+2548629,"March 17, 2023",Maryland,Suitland,"6712 Suitland Rd",0,1,0,0,0,N/A
+2548556,"March 17, 2023",Mississippi,Starkville,"410 Dr Martin Luther King Jr Dr E",0,1,0,0,1,N/A
+2548660,"March 17, 2023","District of Columbia",Washington,"3100 block of Naylor Rd SE",1,0,0,0,0,N/A
+2549289,"March 17, 2023","Rhode Island",Providence,I-95,0,1,0,0,0,N/A
+2549287,"March 17, 2023",Louisiana,Shreveport,"1600 block of Oakdale St",0,1,0,0,0,N/A
+2549182,"March 17, 2023",Colorado,Aurora,"200 block of S Tucson Cir",0,1,0,0,0,N/A
+2549276,"March 17, 2023",Louisiana,Shreveport,"3020 Colquitt Rd",0,1,0,0,0,N/A
+2548855,"March 17, 2023",California,"Los Angeles","4410 S Figueroa St",1,0,0,0,0,N/A
+2548023,"March 17, 2023",California,Fresno,"1300 block of Ferger Ave",0,1,0,0,1,N/A
+2548859,"March 17, 2023",California,"Los Angeles","Avalon Blvd and Imperial Hwy",0,2,0,0,0,N/A
+2549258,"March 17, 2023",Ohio,Chillicothe,"898 Akron St",0,1,0,0,0,N/A
+2548554,"March 16, 2023",Missouri,"Castle Point","10400 block of Monarch Dr",1,0,0,0,0,N/A
+2547633,"March 16, 2023",Ohio,Columbus,"100 block of Rodgers Ave",1,1,0,0,1,N/A
+2548535,"March 16, 2023","New Jersey","New Brunswick","Delavan St and Lee Ave",0,1,0,0,1,N/A
+2572488,"March 16, 2023",Washington,Goldendale,"Box Canyon Rd",2,0,0,0,1,N/A
+2547459,"March 16, 2023",Michigan,Detroit,"Frankfort St and Lakeview St",1,1,0,0,2,N/A
+2548525,"March 16, 2023",Louisiana,"Baton Rouge","5600 block of Crestway Ave",1,0,0,1,1,N/A
+2547723,"March 16, 2023","District of Columbia",Washington,"Martin Luther King Jr Ave SE and Morris Rd SE",0,2,0,0,0,N/A
+2547697,"March 16, 2023",Ohio,Springfield,"425 Harrison St",0,1,0,0,0,N/A
+2547693,"March 16, 2023",Maryland,"Middle River","11905 Market Way",0,1,0,0,0,N/A
+2548413,"March 16, 2023",Michigan,Saginaw,"Mershon St and State St",0,2,0,0,0,N/A
+2547667,"March 16, 2023",Alabama,Eufaula,"W Fair St",0,1,0,0,1,N/A
+2547447,"March 16, 2023","New York",Bronx,"E 140th St and Alexander Ave",0,1,0,0,0,N/A
+2547650,"March 16, 2023","New York",Rochester,"36 Charwood Cir",0,1,0,0,0,N/A
+2547622,"March 16, 2023",Alabama,Mobile,"Congress St and Cuba St",0,2,0,0,0,N/A
+2547849,"March 16, 2023",Kentucky,Morganfield,"3200 block of KY-871",0,1,0,1,0,N/A
+2548410,"March 16, 2023",Mississippi,Jackson,"1133 Raymond Rd",0,1,0,0,0,N/A
+2547556,"March 16, 2023",Illinois,Chicago,"1300 block of E 79th St",1,0,0,0,0,N/A
+2547558,"March 16, 2023",Missouri,"Saint Joseph","2319 Charles St",0,1,0,0,0,N/A
+2547811,"March 16, 2023",Kentucky,Glasgow,"Adams Pl and Park Ave",0,1,0,0,1,N/A
+2547520,"March 16, 2023",Illinois,Chicago,"1000 block of W Marquette Rd",0,2,0,0,0,N/A
+2547515,"March 16, 2023",California,"San Francisco","1500 block of Florida St",0,1,0,0,0,N/A
+2547503,"March 16, 2023",Tennessee,Memphis,"N Watkins St and Northaven Dr",1,0,0,0,0,N/A
+2547499,"March 16, 2023",California,Woodland,"21 N West St",0,0,0,0,1,N/A
+2548231,"March 16, 2023",Delaware,Felton,"200 block of Reeves Crossing Rd",1,0,0,0,1,N/A
+2547464,"March 16, 2023",Illinois,Chicago,"1616 W 63rd St",0,3,0,0,0,N/A
+2548316,"March 16, 2023",Tennessee,Pinson,"Old Henderson Rd",1,0,0,0,0,N/A
+2548310,"March 16, 2023",Wisconsin,Milwaukee,"2311 E Hartford Ave",0,0,0,0,1,N/A
+2553483,"March 16, 2023",Wisconsin,Milwaukee,"N 53rd St and W Center St",1,0,0,0,0,N/A
+2547661,"March 16, 2023","New York",Brooklyn,"1455 St Johns Pl",0,1,0,0,0,N/A
+2547665,"March 16, 2023","New York",Brooklyn,"137 Ave U",0,1,0,0,0,N/A
+2547408,"March 16, 2023","District of Columbia",Washington,"4000 block of Minnesota Ave NE",0,1,0,0,0,N/A
+2547406,"March 16, 2023","District of Columbia",Washington,"2900 block of Knox Pl SE",0,1,0,0,0,N/A
+2547402,"March 16, 2023","District of Columbia",Washington,"1101 Howard Rd SE",0,0,0,1,0,N/A
+2548765,"March 16, 2023","North Carolina",Laurinburg,"Warren Ave and Produce Market Rd",0,1,0,0,0,N/A
+2547837,"March 16, 2023",Kentucky,Frankfort,"100 block of Landings Dr",0,1,0,0,0,N/A
+2548599,"March 16, 2023",Texas,Dallas,"1500 block of Duncanville Rd",1,0,0,0,1,N/A
+2547918,"March 16, 2023",Florida,Bradenton,"720 MLK Ave E",0,0,0,1,0,N/A
+2547912,"March 16, 2023",Florida,"North Miami Beach","16855 NE 2nd Ave",0,0,1,0,0,N/A
+2548173,"March 16, 2023",Georgia,Atlanta,"363 Hill St SE",1,0,0,0,0,N/A
+2548200,"March 16, 2023",Florida,Miami,"1100 NW 71st St",0,0,0,0,1,N/A
+2547190,"March 16, 2023",Maryland,Baltimore,"2301 E Northern Pkwy",1,0,0,0,0,N/A
+2548169,"March 16, 2023",Georgia,Atlanta,"3086 Middleton Rd NW",0,1,0,0,0,N/A
+2547915,"March 16, 2023",Florida,"Fort Myers","18911 S Tamiami Trail",1,0,0,0,1,N/A
+2550199,"March 16, 2023","North Carolina",Ash,"Pea Landing Rd NW",0,1,0,0,1,N/A
+2548212,"March 16, 2023",Texas,Baytown,"3400 block of N Alexander Dr",1,1,0,0,0,N/A
+2547967,"March 16, 2023",California,Lodi,"400 block of W Locust St",0,1,0,0,3,N/A
+2548196,"March 16, 2023",Indiana,"South Bend","2630 Prairie Ave",1,0,0,0,1,N/A
+2548833,"March 16, 2023",Washington,Seattle,"4200 block of Roosevelt Way NE",0,1,0,0,1,N/A
+2547266,"March 16, 2023",Arizona,Phoenix,"N 16th St and E Van Buren St",0,2,0,0,0,N/A
+2548032,"March 16, 2023",Indiana,Indianapolis,"1300 block of S Belmont Ave",0,1,0,0,0,N/A
+2554040,"March 16, 2023",Pennsylvania,Philadelphia,"6200 block of Dickens St",0,1,0,0,0,N/A
+2548029,"March 16, 2023",Pennsylvania,Reading,"Pershing Blvd and McClellan St",0,1,0,0,0,N/A
+2554035,"March 16, 2023",Pennsylvania,Philadelphia,"5200 block of Walton St",0,2,0,0,0,N/A
+2548009,"March 16, 2023",Illinois,"South Holland","State St and 162nd St",0,1,0,0,0,N/A
+2547233,"March 16, 2023",Texas,"San Antonio","900 block of N Frio St",0,1,0,0,0,N/A
+2547230,"March 16, 2023",Pennsylvania,"Long Pond","Shannon Dr",1,0,0,0,1,N/A
+2547131,"March 16, 2023",Maryland,Baltimore,"600 block of N Arlington Ave",1,0,0,0,0,N/A
+2547330,"March 16, 2023",Oklahoma,"Oklahoma City","3317 SW 74th St",1,0,0,0,1,N/A
+2547986,"March 16, 2023",Pennsylvania,Philadelphia,"5100 block of Leiper St",1,2,0,0,0,N/A
+2547196,"March 16, 2023",Texas,Houston,"Tuam St and Fannin St",0,1,0,0,0,N/A
+2547998,"March 16, 2023",Pennsylvania,Philadelphia,"4400 block of Princeton Ave",0,0,0,1,0,N/A
+2547194,"March 16, 2023",Texas,Houston,"Fondren Rd and W Airport Blvd",0,1,0,0,0,N/A
+2547187,"March 16, 2023",Pennsylvania,Philadelphia,"2700 block of N Orkney St",0,1,0,0,0,N/A
+2547990,"March 16, 2023",Illinois,Chicago,"1600 block of W Congress Pkwy",0,1,0,0,0,N/A
+2547164,"March 16, 2023",Texas,Amarillo,"3601 Olsen Blvd",0,1,0,0,0,N/A
+2547961,"March 16, 2023",Illinois,Chicago,"300 block of S Cicero Ave",1,0,0,0,0,N/A
+2547138,"March 16, 2023",Texas,Silsbee,"1000 block of Bonner St",0,1,0,0,0,N/A
+2547129,"March 16, 2023",Maryland,Baltimore,"2900 block of Garrison Blvd",0,1,0,0,0,N/A
+2547945,"March 16, 2023",California,"Los Angeles (Palms)","3600 block of Military Ave",1,0,0,0,1,N/A
+2547963,"March 16, 2023",California,Stockton,"2400 block of Tiffany St",2,1,0,0,0,N/A
+2547939,"March 16, 2023",Florida,"Palm Beach Gardens","4245 Holly Dr",0,0,0,0,1,N/A
+2548959,"March 16, 2023",California,Stockton,"1600 block of E 10th St",2,1,0,0,0,N/A
+2556446,"March 16, 2023",Ohio,Columbus,"1400 block of E. 17th Ave",0,1,0,0,0,N/A
+2547663,"March 16, 2023",Ohio,Columbus,"2700 block of Brentnell Ave",0,1,0,0,1,N/A
+2556442,"March 16, 2023",Ohio,Columbus,"4000 block of Warminster Dr",0,1,0,0,0,N/A
+2549909,"March 16, 2023",Montana,"Great Falls","9th Ave S and 15th St",1,0,0,0,0,N/A
+2548763,"March 16, 2023","North Carolina",Laurinburg,"Grant St",0,1,0,0,0,N/A
+2547674,"March 16, 2023",Maryland,Baltimore,"1300 block of N Gilmor St",0,1,0,0,2,N/A
+2549414,"March 16, 2023",Ohio,Cleveland,"Prospect Ave",0,1,0,0,0,N/A
+2547068,"March 16, 2023","New Jersey","Atlantic City","3800 block of Ventnor Ave",0,1,0,0,1,N/A
+2547895,"March 16, 2023","North Carolina","Elizabeth City (Elizabeth Cty)","S Road St and Shepard St",0,2,0,0,0,N/A
+2547884,"March 16, 2023","North Carolina",Monroe,"1 High School Dr",0,0,0,0,1,N/A
+2549372,"March 16, 2023",Colorado,Westminster,"Perry St and Perry Way",1,0,0,0,1,N/A
+2548684,"March 16, 2023",Mississippi,Newton,N/A,0,1,0,0,0,N/A
+2548741,"March 16, 2023",Alabama,Montgomery,"Welbourne Pl",1,0,0,0,0,N/A
+2548664,"March 16, 2023",Kansas,Topeka,"1300 block of SW Garfield Ave",1,0,0,0,1,N/A
+2548506,"March 16, 2023","New Jersey","Atlantic City","50 block of S Texas Ave",1,0,0,0,0,N/A
+2549312,"March 16, 2023",Alabama,Piedmont,"750 Tom Bible Memorial Hwy",0,0,0,0,1,N/A
+2548034,"March 16, 2023",California,"San Francisco","Market St and Davis St",0,1,0,0,0,N/A
+2547445,"March 16, 2023","New York","Staten Island","Arlington Pl and Grandview Ave",0,1,0,0,0,N/A
+2548344,"March 16, 2023",Ohio,Cleveland,"20000 block of Sunset Dr",1,0,0,0,0,N/A
+2547575,"March 15, 2023",Missouri,"Kansas City","Independence Blvd and Olive St",1,0,0,0,1,N/A
+2549232,"March 15, 2023",Louisiana,"New Orleans","3300 block of 2nd St",0,1,0,0,0,N/A
+2546782,"March 15, 2023",Tennessee,Memphis,"4300 block of W Faronia Square",1,0,0,0,1,N/A
+2547882,"March 15, 2023","North Carolina",Salisbury,"1811 Jake Alexander Blvd",0,1,0,0,1,N/A
+2547054,"March 15, 2023",Alabama,Columbiana,"2500 block of US-311",1,0,0,0,1,N/A
+2550454,"March 15, 2023",Illinois,Palatine,"1814 Green Ln",0,1,0,0,1,N/A
+2546854,"March 15, 2023","South Carolina",Charleston,"Hagood Ave",0,1,0,0,0,N/A
+2547637,"March 15, 2023","New York",Rochester,"Curlew St and Emerson St",0,1,0,0,1,N/A
+2547079,"March 15, 2023",Oklahoma,Tulsa,"7643 E 51st St",1,0,0,0,3,N/A
+2547613,"March 15, 2023",Alabama,Chatom,"Bay Ave",1,0,0,0,1,N/A
+2546602,"March 15, 2023",Illinois,Chicago,"8650 S Holland Rd",0,1,0,0,0,N/A
+2546570,"March 15, 2023",Illinois,Chicago,"131 W 74th St",0,1,0,0,0,N/A
+2546828,"March 15, 2023",Illinois,Urbana,"2502 Prairie Green Dr",1,0,0,0,1,N/A
+2546832,"March 15, 2023",Illinois,Chicago,"8431 S Stewart Ave",1,0,0,0,0,N/A
+2546924,"March 15, 2023",Louisiana,Opelousas,"800 block of Jerome Loop",1,0,0,0,1,N/A
+2546563,"March 15, 2023",Arizona,Mesa,"1438 W University Dr",0,0,0,1,0,N/A
+2546818,"March 15, 2023",Mississippi,Newton,"Old Hickory Rd",0,1,0,0,0,N/A
+2547561,"March 15, 2023",Tennessee,Chattanooga,"200 Manufacturers Rd",0,1,0,0,0,N/A
+2546790,"March 15, 2023","New York",Brooklyn,"396 Saratoga Ave",1,0,0,0,1,N/A
+2547496,"March 15, 2023",Michigan,Detroit,"W McNichols Rd and Ohio St",0,1,0,0,0,N/A
+2547501,"March 15, 2023",Michigan,Detroit,"Tuxedo St and Linwood St",0,1,0,0,0,N/A
+2547830,"March 15, 2023",Kentucky,Carrollton,"116 Main St",0,1,0,0,1,N/A
+2546792,"March 15, 2023",Virginia,Amherst,"139 Lancer Ln",0,0,0,0,1,N/A
+2546788,"March 15, 2023","North Carolina","Willow Spring","Hickory Haven Ln",0,1,0,0,0,N/A
+2547487,"March 15, 2023",California,"Long Beach","1800 block of Locust Ave",0,1,0,0,0,N/A
+2547485,"March 15, 2023",Texas,Victoria,"2508 N Laurent St",0,1,0,0,0,N/A
+2548320,"March 15, 2023",Pennsylvania,Lebanon,"N 10th St and Church St",0,1,0,0,0,N/A
+2546772,"March 15, 2023","North Carolina",Washington,"N Market St and W 9th St",0,1,0,0,0,N/A
+2547473,"March 15, 2023",California,Oakley,"Quail Valley Run and Robinwood Ave",0,1,0,0,1,N/A
+2546767,"March 15, 2023","North Carolina",Richlands,"Koonce Fork Rd",0,1,0,0,1,N/A
+2548288,"March 15, 2023",Arizona,Tucson,"1200 block of N San Joaquin Rd",0,1,0,0,1,N/A
+2548274,"March 15, 2023",Arizona,Phoenix,"3200 block of E Terra Alta Blvd",1,0,0,0,1,N/A
+2546738,"March 15, 2023",Virginia,Portsmouth,"20 block of Swanson Pkwy",0,2,0,0,0,N/A
+2546801,"March 15, 2023","New York",Brooklyn,"9001 Avenue A",0,1,0,0,0,N/A
+2546718,"March 15, 2023",Tennessee,Memphis,"3000 block of Knightway Rd",1,0,0,0,1,N/A
+2546720,"March 15, 2023",Tennessee,Memphis,"800 block of Speed St",1,0,0,0,0,N/A
+2549761,"March 15, 2023",Wisconsin,Milwaukee,"N 38th St and W Concordia Ave",1,0,0,0,1,N/A
+2546730,"March 15, 2023",Maryland,"Oxon Hill","4400 block of Wheeler Rd",0,1,0,0,0,N/A
+2546728,"March 15, 2023","District of Columbia",Washington,"4000 block of S Capitol St SW",0,1,0,0,0,N/A
+2557534,"March 15, 2023",Minnesota,Mankato,"1010 Patriot Ct",0,1,0,0,0,N/A
+2547417,"March 15, 2023",California,"Rancho Cordova","Laurelhurst Dr and Rockingham Dr",0,1,0,0,0,N/A
+2551135,"March 15, 2023",Michigan,Eastpointe,"16800 block of Toepfer Dr",0,1,0,0,1,N/A
+2546689,"March 15, 2023",Maryland,Baltimore,"2500 Harford Rd",0,1,0,0,0,N/A
+2547400,"March 15, 2023",California,Oakland,"300 block of 102nd Ave",0,1,0,0,0,N/A
+2546502,"March 15, 2023",Illinois,Springfield,"1100 block of W Fayette Ave",0,1,0,0,1,N/A
+2547745,"March 15, 2023",Virginia,Suffolk,"100 block of N Capital St",0,1,0,0,0,N/A
+2546688,"March 15, 2023",Georgia,Evans,"550 Blue Ridge Dr",0,0,0,0,0,N/A
+2546652,"March 15, 2023",Ohio,Middletown,"Trenton-Franklin Rd and Germantown Rd",0,2,0,0,0,N/A
+2546639,"March 15, 2023",Wisconsin,Milwaukee,"W Keefe Ave and N Doctor MLK Jr Dr",0,1,0,0,0,N/A
+2547874,"March 15, 2023","North Carolina",Statesville,"Goldsboro Ave",1,1,0,0,3,N/A
+2546705,"March 15, 2023",Georgia,Gainesville,"Cornelia Hwy and YMCA Dr",0,2,0,0,1,N/A
+2548185,"March 15, 2023",Georgia,Eastman,"724 Old River Rd",1,0,0,0,1,N/A
+2547359,"March 15, 2023",Oklahoma,Okmulgee,"S Miami Ave and E 20th St",0,1,1,0,0,N/A
+2546598,"March 15, 2023","District of Columbia",Washington,N/A,0,1,0,0,0,N/A
+2547352,"March 15, 2023",Georgia,Augusta,"200 block of Brandywine Pl",1,0,0,1,1,N/A
+2547344,"March 15, 2023",Georgia,Temple,"100 block of Bar J Rd",0,0,1,0,0,N/A
+2548256,"March 15, 2023",Arizona,"Casa Grande","W Mescalero Dr and N Hualapai Dr",0,0,1,0,0,N/A
+2547340,"March 15, 2023",Oklahoma,Tulsa,"205 Mohawk Blvd",0,1,0,0,0,N/A
+2547321,"March 15, 2023",Kansas,"El Dorado","600 block of W Olive Ave",0,1,0,0,0,N/A
+2548112,"March 15, 2023",Wisconsin,Hortonville,"W8857 County Rd S",1,0,1,0,0,N/A
+2546722,"March 15, 2023",Georgia,Atlanta,"1720 Martin Luther King Jr Dr SW",1,0,0,0,0,N/A
+2548258,"March 15, 2023",Arizona,Phoenix,"4326 N 35th Ave",1,0,0,0,0,N/A
+2548972,"March 15, 2023",Texas,Marshall,"2100 block of Randolph St",1,0,0,0,1,N/A
+2549020,"March 15, 2023",Georgia,Macon,"1179 Eisenhower Pkwy",0,1,0,0,1,N/A
+2547311,"March 15, 2023",Pennsylvania,Philadelphia,"3032 N Broad St",0,1,0,0,0,N/A
+2547170,"March 15, 2023",Texas,Dallas,"100 block of Cliff Heights Cir",1,0,0,0,3,N/A
+2550955,"March 15, 2023","New Mexico",Hobbs,"1001 E Clinton St",0,1,0,1,0,N/A
+2546554,"March 15, 2023",Michigan,Detroit,"19900 block of Avon Ave",0,1,0,0,0,N/A
+2547261,"March 15, 2023",Arizona,Phoenix,"16220 N 7th St",0,1,0,0,0,N/A
+2554044,"March 15, 2023",Pennsylvania,Philadelphia,"3100 block of N Carlisle St",0,1,0,0,0,N/A
+2547150,"March 15, 2023",California,Galt,"Marengo Rd and Twin Cities Rd",0,2,0,0,0,N/A
+2546593,"March 15, 2023",Indiana,Muncie,"1300 block of E 10th St",1,0,0,0,0,N/A
+2546387,"March 15, 2023",Texas,Houston,"6714 Weston St",2,0,0,0,0,N/A
+2546633,"March 15, 2023",Delaware,Georgetown,"26026 Patriots Way",0,0,0,0,1,N/A
+2547493,"March 15, 2023",California,"Moreno Valley","12000 block of Clark St",0,1,1,0,4,N/A
+2547747,"March 15, 2023",Mississippi,Edwards,"110 Edwards Ave",1,0,0,0,1,N/A
+2547183,"March 15, 2023",Pennsylvania,Philadelphia,"3200 block of Wharton St",1,0,0,0,0,N/A
+2547157,"March 15, 2023",Missouri,"Excelsior Springs","100 block of S Titus Ave",0,1,0,0,0,N/A
+2547166,"March 15, 2023",Delaware,"Millsboro (Long Neck)","Long Neck Rd",0,1,0,0,0,N/A
+2546450,"March 15, 2023",Texas,Houston,"4800 block of Allendale Rd",0,1,0,0,0,N/A
+2546448,"March 15, 2023",Texas,Houston,"8200 block of Gulf Fwy",0,1,0,0,0,N/A
+2546434,"March 15, 2023",Ohio,Cincinnati,"3949 Spring Grove Ave",0,1,0,0,0,N/A
+2547951,"March 15, 2023",Washington,"Federal Way","1900 block of SW Campus Dr",1,0,0,0,0,N/A
+2546495,"March 15, 2023",Oregon,Portland,"7900 NE 82nd Ave",2,2,0,0,0,N/A
+2547091,"March 15, 2023",Illinois,Chicago,"1000 block of N Avers Ave",0,1,0,0,0,N/A
+2547033,"March 15, 2023",California,"San Francisco","241 Oneida Ave",0,0,0,0,0,N/A
+2547930,"March 15, 2023",Florida,"Fort Pierce","1600 block of N 29th St",0,2,0,0,0,N/A
+2547140,"March 15, 2023",California,Modesto,"1100 block of Lassen Ave",2,2,0,0,0,N/A
+2547921,"March 15, 2023",Florida,Sarasota,"1300 block of Siesta Dr",0,2,0,0,0,N/A
+2547112,"March 15, 2023",Washington,Kent,"I-5 and WA-516",0,1,0,0,1,N/A
+2547083,"March 15, 2023",Oklahoma,Tulsa,"E 31st St and S Sheridan Rd",1,0,0,0,0,N/A
+2547909,"March 15, 2023",Florida,Jacksonville,"900 block of Arlington Rd N",1,0,0,0,0,N/A
+2547073,"March 15, 2023",Connecticut,"New Haven","Dixwell Ave and Hazel St",1,0,0,0,0,N/A
+2547076,"March 15, 2023",Colorado,Brighton,"S 9th Ave and Bush St",0,1,0,0,0,N/A
+2547903,"March 15, 2023",Florida,"Fort Lauderdale","I-95 and Broward Blvd",0,1,0,0,0,N/A
+2547900,"March 15, 2023","South Carolina","North Charleston","Barnwell Ave",0,1,0,0,0,N/A
+2548725,"March 15, 2023",Alabama,Newton,"Old Hickory Rd",0,1,0,0,0,N/A
+2548713,"March 15, 2023",Alabama,Hamilton,"US-43 N",1,0,0,0,1,N/A
+2547890,"March 15, 2023","North Carolina","Winston Salem (Winston-salem)","Cassell St and Champlain St",0,1,0,0,0,N/A
+2546741,"March 15, 2023",Mississippi,Jackson,"650 Agape Dr",1,0,0,0,3,N/A
+2547057,"March 15, 2023",Alabama,Springville,"237 Wilson St",0,0,0,0,0,N/A
+2547858,"March 15, 2023",Mississippi,"Mound Bayou","501 Brenda St",1,0,0,0,2,N/A
+2548669,"March 15, 2023",Kansas,Wichita,"2100 block of S Ellis St",0,1,0,0,0,N/A
+2547029,"March 15, 2023",Louisiana,"New Orleans","N Galvez and Allen St",0,1,0,0,0,N/A
+2547022,"March 15, 2023",California,"San Francisco","Cesar Chavez St and Florida St",0,1,0,0,0,N/A
+2549847,"March 15, 2023",Oklahoma,Tulsa,"6744 S Lewis Ave",1,0,0,0,1,N/A
+2547245,"March 15, 2023",Pennsylvania,"Kingston (Edwardsville)","517 Roosevelt Ln",0,1,0,0,1,N/A
+2547783,"March 15, 2023",Tennessee,Memphis,"2300 block of Frayser Blvd",0,1,0,0,0,N/A
+2547772,"March 15, 2023",Tennessee,Memphis,"3824 Elvis Presley Blvd",0,2,0,0,1,N/A
+2546696,"March 15, 2023",Wisconsin,Milwaukee,"N 39th St and W Center St",1,0,0,0,0,N/A
+2546947,"March 15, 2023",California,Stockton,"1900 block of Vicki Ln",1,0,0,0,0,N/A
+2546429,"March 15, 2023",Texas,Dallas,"2826 Elm St",2,1,0,0,1,N/A
+2546940,"March 15, 2023",Maryland,"Capitol Heights","6800 block of Walker Mill Rd",0,1,0,0,0,N/A
+2546083,"March 14, 2023",Michigan,Holt,"5885 Holt Rd",0,0,0,0,1,N/A
+2545871,"March 14, 2023",Alabama,Birmingham,"8400 block of 8th Ave S",4,0,0,0,1,N/A
+2546291,"March 14, 2023",Ohio,Newark,"7500 block of White Chapel Rd",0,2,0,0,1,N/A
+2547040,"March 14, 2023",Alabama,Mobile,"2000 block of Northwest Dr",1,0,0,0,0,N/A
+2545926,"March 14, 2023",Illinois,Chicago,"7209 S Eberhart Ave",1,0,0,0,1,N/A
+2546883,"March 14, 2023",Utah,"Spanish Fork","1400 S and 2200 E",2,0,0,0,1,N/A
+2545714,"March 14, 2023",Pennsylvania,Philadelphia,"N 16th St and Clearfield St",1,0,0,0,0,N/A
+2546300,"March 14, 2023",Ohio,Cleveland,"E 28th St and Cedar Ave",0,1,0,0,1,N/A
+2545722,"March 14, 2023","New York","New York (Manhattan)","E 125th St and Madison Ave",0,2,0,0,0,N/A
+2545728,"March 14, 2023","New York",Brooklyn,"Williams Ave and Livonia Ave",0,1,0,0,0,N/A
+2545726,"March 14, 2023","New York",Brooklyn,"Hegeman Ave and Miller Ave",0,1,0,0,0,N/A
+2546109,"March 14, 2023",Tennessee,Memphis,"1800 block of Walker Ave",0,1,0,0,1,N/A
+2545730,"March 14, 2023","New York","New York (Manhattan)","170 Amsterdam Ave",0,1,0,0,1,N/A
+2546223,"March 14, 2023",Louisiana,"New Orleans","S Derbigny St and Jackson Ave",0,2,0,0,0,N/A
+2546214,"March 14, 2023",Illinois,Chicago,"200 block of S Damen Ave",0,1,0,0,0,N/A
+2546171,"March 14, 2023",Illinois,Chicago,"4417 S Marshfield Ave",0,1,0,0,0,N/A
+2546177,"March 14, 2023",Illinois,Chicago,"6611 S Halsted St",0,1,0,0,0,N/A
+2547580,"March 14, 2023",Missouri,Springfield,"1900 block of S Weaver Ave",0,1,0,0,1,N/A
+2546205,"March 14, 2023","West Virginia",Weirton,"Patterson Rd",0,0,0,1,0,N/A
+2546117,"March 14, 2023",Tennessee,Murfreesboro,"341 Fortress Blvd",1,0,1,0,0,N/A
+2546221,"March 14, 2023",Kentucky,Louisville,"11400 block of Tazwell Dr",1,0,0,0,0,N/A
+2545936,"March 14, 2023",Illinois,Chicago,"2149 E 69th St",0,1,0,0,0,N/A
+2545690,"March 14, 2023",Arizona,Phoenix,"27th Ave and McDowell Rd",1,0,0,1,1,N/A
+2546168,"March 14, 2023",Virginia,Norfolk,"7101 Granby St",0,0,0,0,1,N/A
+2547172,"March 14, 2023",Texas,Dallas,"3400 block of Southern Oaks Blvd",1,0,0,0,1,N/A
+2546776,"March 14, 2023","North Carolina",Greensboro,"S Eugene St and Whittington St",0,2,0,0,0,N/A
+2546102,"March 14, 2023",Tennessee,Memphis,"1500 block of Prescott Rd",1,0,0,0,1,N/A
+2546734,"March 14, 2023",Virginia,Richmond,"4900 block of Old Brook Rd",0,1,0,0,0,N/A
+2546745,"March 14, 2023","South Carolina",Chester,"Third St",0,1,0,0,1,N/A
+2548538,"March 14, 2023",Utah,Ogden,"2957 S Childs Ave",1,0,0,0,2,N/A
+2549120,"March 14, 2023",Tennessee,Memphis,"Chelsea Ave and Pope St",0,1,0,0,0,N/A
+2545705,"March 14, 2023",Iowa,Postville,"439 State Dr",0,2,0,0,3,N/A
+2546051,"March 14, 2023",Massachusetts,Brockton,"93 Tribou St",1,1,0,0,1,N/A
+2550302,"March 14, 2023",Tennessee,Jackson,"576 Airways Blvd",0,1,0,0,1,N/A
+2546847,"March 14, 2023",California,Antioch,"Lone Tree Way and Canada Valley Rd",0,1,0,0,0,N/A
+2546699,"March 14, 2023",Georgia,"Talking Rock","200 block of Jay Moss Ln",0,0,1,0,0,N/A
+2546490,"March 14, 2023",Ohio,Wooster,"1640  Gasche St",1,0,0,0,1,N/A
+2546077,"March 14, 2023",Michigan,Kalamazoo,"5800 Jefferson Commons Dr",0,1,0,0,1,N/A
+2546724,"March 14, 2023",Georgia,"Atlanta (Vinings)","Lake Ferry Ln",0,1,0,0,0,N/A
+2546432,"March 14, 2023",Texas,"Fort Worth","5600 block of Wedgworth Rd",0,0,0,1,0,N/A
+2546794,"March 14, 2023","New York",Brooklyn,"Rogers Ave and Empire Blvd",0,1,0,0,1,N/A
+2546037,"March 14, 2023",Florida,Tampa,"Del Rey Ct and E Busch Blvd",0,1,0,0,0,N/A
+2550770,"March 14, 2023",California,Fresno,"Fresno St and G St",0,1,0,0,0,N/A
+2546521,"March 14, 2023",Arizona,Tucson,"2702 E Grant Rd",0,0,1,0,0,N/A
+2546021,"March 14, 2023",Florida,"Fort Lauderdale (Dania Beach)","200 block of NW 9th Ave",0,1,0,0,0,N/A
+2547357,"March 14, 2023",Alabama,"Phenix City","9th Ave and Summerville Rd",0,1,0,0,0,N/A
+2547335,"March 14, 2023",Connecticut,Hartford,"219 Oxford St",0,1,0,0,0,N/A
+2546868,"March 14, 2023","South Carolina",Williston,"Kitchings Rd and Old Barnwell Rd",1,0,0,0,1,N/A
+2545930,"March 14, 2023","North Carolina",Kernersville,"110 Brown Rd",0,0,0,0,0,N/A
+2545928,"March 14, 2023",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2545911,"March 14, 2023",Minnesota,"Saint Louis Park",N/A,0,1,0,0,0,N/A
+2545905,"March 14, 2023",Texas,"San Antonio","12700 block of Sandtrap St",0,1,0,0,0,N/A
+2546600,"March 14, 2023","New Mexico",Albuquerque,"1849 Coors Blvd SW",1,0,0,0,1,N/A
+2545817,"March 14, 2023",Texas,"Fort Worth","4451 South Fwy",0,1,0,0,0,N/A
+2546173,"March 14, 2023",Michigan,Detroit,"10800 block of Outer Dr E",1,2,0,0,0,N/A
+2546295,"March 14, 2023",Wisconsin,Milwaukee,"N 55th St  and W Brentwood Ave",0,1,0,0,0,N/A
+2545716,"March 14, 2023",Georgia,Griffin,"615 Northside Dr",1,0,0,0,1,N/A
+2546146,"March 14, 2023",Wisconsin,Milwaukee,"S 2nd St and W National Ave",0,1,0,0,1,N/A
+2546920,"March 14, 2023",Arizona,Chandler,"Dobson Rd and Frye Rd",1,0,0,0,1,N/A
+2554047,"March 14, 2023",Pennsylvania,Philadelphia,"4700 block of Bingham St",0,1,0,0,0,N/A
+2546518,"March 14, 2023",Texas,"San Antonio","1300 block of Bandera Rd",0,1,0,0,1,N/A
+2546385,"March 14, 2023",Texas,Brownsville,"2700 block of Florencia Ave",1,0,0,0,1,N/A
+2545955,"March 14, 2023",Maryland,Suitland,"2316 Brooks Dr",0,2,0,0,0,N/A
+2546184,"March 14, 2023",Texas,"San Antonio","Southcross Ranch Rd and New Sulphur Springs Rd",0,0,0,1,0,N/A
+2546524,"March 14, 2023",Texas,"San Antonio","9898 Colonnade Blvd",0,0,0,1,0,N/A
+2547206,"March 14, 2023",Texas,Cypress,"11833 Barker Cypress Rd",0,1,0,0,1,N/A
+2547198,"March 14, 2023",Pennsylvania,"New Castle","407 Spruce St",0,1,0,0,1,N/A
+2546488,"March 14, 2023",Florida,"Winter Garden","770 Klondike Ave",1,0,0,0,0,N/A
+2546484,"March 14, 2023",Florida,Miami,"8400 block of NW Fifth Ct",1,0,0,0,0,N/A
+2546463,"March 14, 2023",Illinois,Chicago,"9440 S Harvard Ave",0,1,0,0,1,N/A
+2546480,"March 14, 2023",Illinois,Chicago,"300 block of W 88th St",0,1,0,0,0,N/A
+2546465,"March 14, 2023",Illinois,Chicago,"1200 block of W Roosevelt Rd",0,1,0,0,0,N/A
+2546460,"March 14, 2023",Illinois,Chicago,"8030 S Vernon Ave",0,2,0,0,0,N/A
+2546473,"March 14, 2023",Arizona,Glendale,"59th Ave and Eugie Ave",0,1,0,0,0,N/A
+2546470,"March 14, 2023",Arizona,Mesa,"Essex Ln",1,0,0,0,1,N/A
+2546467,"March 14, 2023",Arizona,Phoenix,"4840 N 67th Ave",0,1,0,0,1,N/A
+2545687,"March 14, 2023",Arizona,Avondale,"Central Ave and Yuma St",0,1,0,0,0,N/A
+2546784,"March 14, 2023","North Carolina",Durham,"Hillsborough Rd and Cole Mill Rd",1,0,0,0,3,N/A
+2546455,"March 14, 2023",Maryland,"Hyattsville (New Carrollton)","7700 block of Topton St",0,1,0,0,0,N/A
+2545777,"March 14, 2023",California,Gilroy,"1300 block of Pheasant Dr",1,0,0,0,1,N/A
+2546613,"March 14, 2023",Washington,Bremerton,"5328 Pineridge Dr NE",0,1,1,0,0,N/A
+2547097,"March 14, 2023",Louisiana,"New Orleans","Bundy Rd and Dwyer Rd",0,0,0,0,2,N/A
+2545852,"March 14, 2023",Oregon,Eugene,"E 13th Ave and Patterson St",1,2,0,0,1,N/A
+2545678,"March 14, 2023",Ohio,Dayton,N/A,0,1,0,0,0,N/A
+2546512,"March 14, 2023",Florida,Clearwater,"315 S Gulfview Blvd",1,0,0,0,1,N/A
+2547061,"March 14, 2023","New Jersey",Paterson,"Rosa Parks Blvd and Lyon St",0,1,0,0,0,N/A
+2546486,"March 14, 2023",Arizona,Mesa,"4433 E Main St",0,1,0,0,1,N/A
+2547347,"March 14, 2023",Connecticut,Hartford,"200 block of Barbour St",1,0,0,0,0,N/A
+2548673,"March 14, 2023",Mississippi,Hattiesburg,"Bramblett Dr",1,0,0,0,0,N/A
+2546112,"March 14, 2023",Tennessee,Memphis,"4569 Distriplex Dr W",0,1,0,0,0,N/A
+2546150,"March 14, 2023",Virginia,Petersburg,"1400 block of Pin Oaks Dr",1,0,0,0,0,N/A
+2546934,"March 14, 2023",California,Oakland,"2700 block of 67th Ave",0,1,0,0,0,N/A
+2550559,"March 14, 2023",Louisiana,Crowley,"200 block of E Oak St",0,1,0,0,1,N/A
+2546931,"March 14, 2023",California,Oakland,"5700 block of Foothill Blvd",0,1,0,0,0,N/A
